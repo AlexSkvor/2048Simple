@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_2048_numbers_size">16sp</dimen>
+    <dimen name="app_2048_mid_numbers_size">12sp</dimen>
+    <dimen name="app_2048_big_numbers_size">8sp</dimen>
+</resources>
