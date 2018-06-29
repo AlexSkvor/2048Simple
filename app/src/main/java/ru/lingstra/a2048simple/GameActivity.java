@@ -503,4 +503,7 @@ public class GameActivity extends Activity implements View.OnTouchListener {
                 break;
         }
     }
+
+    public void some(){}
+
 }
